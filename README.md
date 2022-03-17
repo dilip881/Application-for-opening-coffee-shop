@@ -1,4 +1,4 @@
-# COMPUTING APPROXIMATE MINIMUM SET COVER
+# Application for opening Coffee Shop
 
 
 
